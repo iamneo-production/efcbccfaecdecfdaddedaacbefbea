@@ -1,2 +1,1 @@
-mkdir newfolder
-touch newfile.txt
+vi text content.sh
